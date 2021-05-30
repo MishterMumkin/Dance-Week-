@@ -1,2 +1,2 @@
 # Dance-Week-
-News about dance week
+A game coming soon
